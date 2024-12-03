@@ -4,7 +4,7 @@
   "description": "Thematic virtual \"Red Thread\" is an immersive and social venue of conspiracy thinkers. It can be applied to the purpose of authentication, producing evidence for a broad range of conspiracy theories and collaboratively as a means for spreading evidence among a group of users. As redundancy evidence continues to mount, the can remove redundancy, resulting in clarity and intelligibility. When theories are found to intersect based on evidence, a \"red thread\" visually connects them, creating an intricate web of interconnected ideas.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test":""
   },
   "keywords": [],
   "author": "",
