@@ -4,9 +4,17 @@
   "description": "Thematic virtual \"Red Thread\" is an immersive and social venue of conspiracy thinkers. It can be applied to the purpose of authentication, producing evidence for a broad range of conspiracy theories and collaboratively as a means for spreading evidence among a group of users. As redundancy evidence continues to mount, the can remove redundancy, resulting in clarity and intelligibility. When theories are found to intersect based on evidence, a \"red thread\" visually connects them, creating an intricate web of interconnected ideas.",
   "main": "index.js",
   "scripts": {
-    "test":""
+    "test": ""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
